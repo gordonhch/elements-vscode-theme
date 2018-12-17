@@ -6,7 +6,7 @@ A VS Code theme based on colors of glacier4brackets and color designs of night-o
 
 current in alpha, only accessible on this page.
 
-![Preview](https://github.com/sdras/night-owl-vscode-theme/raw/master/preview.png)
+![Preview](https://github.com/sdras/night-owl-vscode-theme/raw/master/prevview.png)
 
 # Installation
 
