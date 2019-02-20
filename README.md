@@ -6,7 +6,7 @@ A VS Code theme based on colors of glacier4brackets and color designs of night-o
 
 Currently in alpha. Please submit encountered issues you encountered at the Github issues page.
 
-Inspired by glacier4brackets and [night-owl-vscode-theme](https://css-tricks.com/creating-a-vs-code-theme/).
+Inspired by [glacier4brackets](https://github.com/diomed/glacier4brackets) and [night-owl-vscode-theme](https://css-tricks.com/creating-a-vs-code-theme/).
 
 ![Preview](https://github.com/gordonhch/elements-vscode-theme/blob/master/preview.png)
 
