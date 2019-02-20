@@ -8,7 +8,7 @@ Currently in alpha. Please submit encountered issues you encountered at the Gith
 
 Inspired by glacier4brackets and [night-owl-vscode-theme](https://css-tricks.com/creating-a-vs-code-theme/).
 
-![Preview](https://github.com/gordonhch/elements-vscode-theme/blob/master/preview.jpg)
+![Preview](https://github.com/gordonhch/elements-vscode-theme/blob/master/preview.png)
 
 # Installation
 
