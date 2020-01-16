@@ -6,4 +6,8 @@ All notable changes to the "Elements" extension are be documented in this file.
 
 - initial
 
+## "1.0.0"
+
+- stable release
+
 
