@@ -8,7 +8,8 @@ Currently in alpha. Please submit encountered issues you encountered at the Gith
 
 Inspired by [glacier4brackets](https://github.com/diomed/glacier4brackets) and [night-owl-vscode-theme](https://css-tricks.com/creating-a-vs-code-theme/).
 
-React preview ![Preview](https://raw.githubusercontent.com/gordonhch/elements-vscode-theme/master/preview.png)
+React preview 
+![Preview](https://raw.githubusercontent.com/gordonhch/elements-vscode-theme/master/preview.png)
 
 # Installation
 
