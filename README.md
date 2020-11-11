@@ -2,7 +2,7 @@
 
 
 
-A VS Code theme based on colors of glacier4brackets and color designs of night-owl-vscode-theme.
+A VS Code theme based on colors of glacier4brackets and color designs of night-owl-vscode-theme. [Link](https://marketplace.visualstudio.com/items?itemName=gordonhch.elements-vscode-theme)
 
 Currently in alpha. Please submit encountered issues you encountered at the Github issues page.
 
