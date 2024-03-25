@@ -317,7 +317,7 @@
       "name": "Comma in functions",
       "scope": "meta.function punctuation.separator.comma",
       "settings": {
-        "foreground": "#1b325c"
+        "foreground": "#c4c5c6"
       }
     },
     {
@@ -555,7 +555,7 @@
       "scope": "meta.delimiter.period",
       "settings": {
         "foreground": "#33e4b8",
-        //"fontStyle": "italic"
+        // "fontStyle": "italic"
       }
     },
     {
